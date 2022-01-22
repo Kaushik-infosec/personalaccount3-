@@ -11,5 +11,5 @@ else
 	git commit -a --allow-empty-message -m ''
 	filename=`cat config`
 	echo $filename
-	git push https://Kaushik-infosec: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@github.com/Kaushik-infosec/${filename}"-.git" --all
+	git push https://Kaushik-infosec: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@github.com/Kaushik-infosec/${filename}"-.git" --all
 fi
